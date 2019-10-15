@@ -1,0 +1,6 @@
+A cyber weapon and security framework that is powered by a dedicated Parrot OS mainframe running off of an external Hard Drive or "Queen Module". The host system is also listening for incoming SSH connection from "Drone Modules" which can not only dump field data over the WAN but also remotely use peripheral systems on the Host network to perform various operations on data, these are "Worker Modules". If the operation generates an output to STDOUT it can either be stored in various formats on the "Queen Module" or return results to the "Drone" via SSH.
+
+Besides data analysis "Drones" can request resources from the Hive in the form of ordnance, network mapping, or offensive support. The Workers and Queen constantly monitor the state of the Drones on the WAN attempt to identify the network environment within a certain proximity of Drones. Simple shodan scans, Google Maps information about businesses are ran in the background.
+
+The scope of this project is staggering. We're taking what would be isolated and independent cyber weapons, and plugging them into a sort of "Hive Mind", giving us the ability to function as a cyber militia. The design is intended originally to function with a single Administrator, however Modules will be developed that implement a secure multi-user support with privilege levels of varying degrees of control and power.
+
