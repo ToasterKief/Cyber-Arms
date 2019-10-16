@@ -1,0 +1,6 @@
+Currently Available Hardware:
+    Device-01: "WD TV Live Hub Media Center"
+        
+Acer Chromebook 128 GB SSD 4GB Ram Intel i3 { Currently has a broken screen, and the hardware clock sometimes cannot be read by the stdio at boot. Low resource but having an SSD makes for quick write times}
+Dell Latitude 256 GB HDD 8GB Ram Intel Core I5 { currently has a sketchy aftermarket Hard Drive installed, Battery is no longer functional, and many of the keys do not function. However is definitely packed with more power and better hardware than the chromebook, and will have a special place in the framework.}
+
