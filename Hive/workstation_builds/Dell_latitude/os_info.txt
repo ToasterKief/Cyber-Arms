@@ -1,0 +1,9 @@
+Type of distribution: Debian Linux
+Distro: Parrot OS Security Edition with KDE Desktop
+Download Source: https://parrotlinux.org/download-security.php
+Media: USB 3.0 128 GB 
+Write Method: balenaEtcher-1.5.59-x64.AppImage
+(Was successfully flashed to the USB device from the Acer Chromebook.)
+
+ 
+
